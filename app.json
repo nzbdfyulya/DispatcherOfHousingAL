@@ -1,0 +1,31 @@
+{
+  "id": "2a728fec-7e58-4005-9ad4-e6d31dc49b47",
+  "name": "DispatcherOfHousing",
+  "publisher": "YULPI Smart Business",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50121,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": ["TranslationFile", "GenerateCaptions"],
+  "runtime": "8.0",
+  "target": "OnPrem"
+}

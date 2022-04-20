@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="uk-UA" original="DispatcherOfHousing">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2062627649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Repairman</source>
+          <target>Майстер</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - NamedType 1275771387" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The email address has already been added.</source>
+          <target>Електрона пошта вже додана.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - NamedType ConfigAlreadyExistsErr</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - NamedType 2719904358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An email address must be specified.</source>
+          <target>Потрібно вказати адресу електронної пошти.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - NamedType EmailAddressEmptyErr</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - NamedType 49602008" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Must not contain letters</source>
+          <target>Не повинно містити букв</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - NamedType PhoneNoCannotContainLettersErr</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Код</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - Field 985328067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-mail</source>
+          <target>Електрона пошта</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - Field E-mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - Field 1303377601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 1 Code</source>
+          <target>Global Dimension 1 Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - Field Global Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - Field 1337243520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 2 Code</source>
+          <target>Global Dimension 2 Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - Field Global Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Ім'я</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>Номер серії</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - Field 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target>Номер телефону</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - Field Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - Field 2257126075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Category</source>
+          <target>Категорія запиту</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - Field Request Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2062627649 - Field 2257126075 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electrician,Sanitary engineering,Gas</source>
+          <target>Електрика,Сантехніка,Газ</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Repairman - Field Request Category - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request</source>
+          <target>Запит</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - NamedType 49602008" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Must not contain letters</source>
+          <target>Не повинно містити літер</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - NamedType PhoneNoCannotContainLettersErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 1407200743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Date</source>
+          <target>Дата створення</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Creation Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 788537400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Time</source>
+          <target>Час створення</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Creation Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 517184733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer City</source>
+          <target>Місто</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Customer City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 1866292564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Full Name</source>
+          <target>Повне ім'я замовника</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Customer Full Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 718903257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer House No.</source>
+          <target>Будинок</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Customer House No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>Номер замовника</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 3920751393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Phone No.</source>
+          <target>Номер телефону замовника</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Customer Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 2409721365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Room</source>
+          <target>Квартира</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Customer Room - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 2624615023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Street</source>
+          <target>Вулиця</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Customer Street - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set ID</source>
+          <target>Dimension Set ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Dimension Set ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>Номер серії</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Дата публікації</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 4130293374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Priority</source>
+          <target>Пріоритер</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Priority - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 4130293374 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Low,High,Emergency</source>
+          <target>Низький,Високий,Надзвичайний</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Priority - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 3605786318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Repairman Code</source>
+          <target>Код майстра</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Repairman Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 2266613908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Repairman Name</source>
+          <target>Ім'я майстра</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Repairman Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 2257126075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Category</source>
+          <target>Категорія запиту</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Request Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 2257126075 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electrician,Sanitary engineering,Gas</source>
+          <target>Електрика,Сантехніка,Газ</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Request Category - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 1577567912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 1 Code</source>
+          <target>Shortcut Dimension 1 Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Shortcut Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 1003760969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 2 Code</source>
+          <target>Shortcut Dimension 2 Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Shortcut Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Статус</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created,Assigned,Canceled,Posted</source>
+          <target>Створено,Призначено,Скасовано,Опубліковано</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3351914939 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>Ідентифікатор користувача</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Request - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3900193669 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Repairman</source>
+          <target>Новий,Процес,Звіт,Майстер</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Repairmen - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 3900193669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Repairmen</source>
+          <target>Ремонтні майстри</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Repairmen - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3900193669 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target>Аналітики</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Repairmen - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3900193669 - Action 1269018909 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit dimensions for a group of records. You can assign dimension codes to transactions to distribute costs and analyze historical information.</source>
+          <target>Перегляд або редагування вимірів для групи записів. Ви можете призначати коди параметрів транзакціям для розподілу витрат та аналізу історичної інформації.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Repairmen - Action DimensionsMultiple - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3900193669 - Action 1269018909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions-&amp;Multiple</source>
+          <target>Аналітики-&amp;множинна</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Repairmen - Action DimensionsMultiple - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3900193669 - Action 391316011 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit the single set of dimensions that are set up for the selected record.</source>
+          <target>Перегляд або редагування окремого набору аналітичних вимірів, налаштованих для вибраного запису.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Repairmen - Action DimensionsSingle - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3900193669 - Action 391316011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions-Single</source>
+          <target>Аналітики-одиночна</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Repairmen - Action DimensionsSingle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4191669918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Count</source>
+          <target>Кількість запитів</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4191669918 - Control 1354865808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address Request Count</source>
+          <target>К-сть запитів за адресою</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Count - Control Address Request Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4191669918 - Control 3831322210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Request Count</source>
+          <target>К-сть запитів за замовником</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Count - Control Customer Request Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 470623979 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Dimensions,Status</source>
+          <target>Нове,Процес,Звіт,Аналітики,Статус</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Doc - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 470623979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Doc</source>
+          <target>Запити</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Doc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 470623979 - Control 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target>Аналітики</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Doc - Control Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 470623979 - Action 1973186897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Request</source>
+          <target>Скасувати запит</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Doc - Action Cancel Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 470623979 - Action 881177948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit dimensions, such as area, project, or department, that you can assign to sales and purchase documents to distribute costs and analyze transaction history.</source>
+          <target>Переглядайте або редагуйте параметри, такі як область, проект або відділ, які можна призначити документам з продажу та закупівлі для розподілу витрат та аналізу історії транзакцій.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Doc - Action Dimension - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 470623979 - Action 881177948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target>Аналітики</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Doc - Action Dimension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 470623979 - Action 3658765267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Request</source>
+          <target>Опублікувати запит</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Doc - Action Post Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1028646692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requests List</source>
+          <target>Список запитів</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Requests List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1028646692 - Action 2173385693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit dimensions, such as area, project, or department, that you can assign to sales and purchase documents to distribute costs and analyze transaction history.</source>
+          <target>Переглядайте або редагуйте параметри, такі як область, проект або відділ, які можна призначити документам з продажу та закупівлі для розподілу витрат та аналізу історії транзакцій.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Requests List - Action Dimensions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1028646692 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target>Аналітика</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Requests List - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2177262640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requests Report</source>
+          <target>Звіт про запити</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Requests Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2177262640 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Дата публікації</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Requests Report - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2177262640 - Control 1047779481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Repairman Code</source>
+          <target>Код майстра</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Requests Report - Control RepairmanFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1350798536 - Field 2721573349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Repairman Nos.</source>
+          <target>Номер майстра</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension YULPI Sales &amp; Rec Setup - Field Repairman Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1350798536 - Field 3754232279 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Request Nos.</source>
+          <target>Номер запиту</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension YULPI Sales &amp; Rec Setup - Field Request Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1028646692 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Dimensions</source>
+          <target>Нове,Процес,Звіт,Аналітики</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Requests List - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 1028646692 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target>Друк</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Requests List - Action Print - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
