@@ -30,6 +30,7 @@ report 50121 "Requests Report"
             dataitem(Request; Request)
             {
                 DataItemLink = "Repairman Code" = FIELD("Code");
+
                 DataItemTableView = SORTING("No.") WHERE(Status = CONST(Posted));
                 column(No_Request; Request."No.")
                 {

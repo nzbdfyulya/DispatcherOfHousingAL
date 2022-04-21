@@ -27,11 +27,13 @@ table 50122 Request
         {
             Caption = 'Creation Date';
             DataClassification = ToBeClassified;
+            Editable = false;
         }
         field(4; "Creation Time"; Time)
         {
             Caption = 'Creation Time';
             DataClassification = ToBeClassified;
+            Editable = false;
         }
         field(5; Status; Option)
         {
@@ -158,6 +160,7 @@ table 50122 Request
         {
             Caption = 'Posting Date';
             DataClassification = ToBeClassified;
+            Editable = false;
         }
         field(18; "No. Series"; Code[20])
         {

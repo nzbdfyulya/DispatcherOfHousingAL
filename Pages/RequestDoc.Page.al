@@ -186,8 +186,12 @@ page 50124 "Request Doc"
     }
     trigger OnInit()
     begin
-        IF (Rec.Status = Rec.Status::Created) THEN
+        IF (Rec.Status = Rec.Status::Created) THEN begin
             EditableFields := TRUE;
+            Enable := TRUE;
+            EnableCancel := TRUE;
+        end;
+
 
     end;
 
