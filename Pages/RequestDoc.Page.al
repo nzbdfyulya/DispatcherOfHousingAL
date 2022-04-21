@@ -87,7 +87,7 @@ page 50124 "Request Doc"
             group(Dimensions)
             {
                 Caption = 'Dimensions';
-                Editable = EditableFields;
+
                 field("Shortcut Dimension 1 Code"; Rec."Shortcut Dimension 1 Code")
                 {
                     ApplicationArea = All;

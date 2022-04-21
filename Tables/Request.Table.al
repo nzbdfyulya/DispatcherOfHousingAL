@@ -22,6 +22,7 @@ table 50122 Request
         {
             Caption = 'User ID';
             DataClassification = ToBeClassified;
+            Editable = false;
         }
         field(3; "Creation Date"; Date)
         {

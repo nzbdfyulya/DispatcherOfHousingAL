@@ -285,6 +285,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Request Count - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 470623979 - Control 4191669918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Count</source>
+          <target>Статистика</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Doc - Control Request Count - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 4191669918 - Control 1354865808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Address Request Count</source>
           <target>Количество запросов по адресу</target>
